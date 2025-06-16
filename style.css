@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(155, 155, 131);
+}
+
+.padding1 {
+    padding: 50px;
+    border: 1px solid rgb(209, 25, 22);
+}
